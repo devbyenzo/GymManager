@@ -1,4 +1,5 @@
-import { FaGithub, FaLinkedin, FaEnvelope } from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaEnvelope } from 'react-icons/fa';
+import { Link } from 'react-router-dom';
 
 export default function Footer() {
   return (
@@ -45,10 +46,26 @@ export default function Footer() {
           <h3 className="font-bold text-white">Links Rápidos</h3>
 
           <ul className="mt-4 space-y-3 text-zinc-400">
-            <li><a href="#features" className="hover:text-yellow-400">Recursos</a></li>
-            <li><a href="#dashboard" className="hover:text-yellow-400">Dashboard</a></li>
-            <li><a href="#pricing" className="hover:text-yellow-400">Planos</a></li>
-            <li><a href="#testimonials" className="hover:text-yellow-400">Depoimentos</a></li>
+            <li>
+              <a href="#features" className="hover:text-yellow-400">
+                Recursos
+              </a>
+            </li>
+            <li>
+              <a href="#dashboard" className="hover:text-yellow-400">
+                Dashboard
+              </a>
+            </li>
+            <li>
+              <a href="#pricing" className="hover:text-yellow-400">
+                Planos
+              </a>
+            </li>
+            <li>
+              <a href="#testimonials" className="hover:text-yellow-400">
+                Depoimentos
+              </a>
+            </li>
           </ul>
         </div>
 
@@ -56,9 +73,21 @@ export default function Footer() {
           <h3 className="font-bold text-white">Empresa</h3>
 
           <ul className="mt-4 space-y-3 text-zinc-400">
-            <li><a href="#home" className="hover:text-yellow-400">Sobre</a></li>
-            <li><a href="#contact" className="hover:text-yellow-400">Contato</a></li>
-            <li><a href="#blog" className="hover:text-yellow-400">Blog</a></li>
+            <li>
+              <Link to="/NotFound" className="hover:text-yellow-400">
+                Sobre
+              </Link>
+            </li>
+            <li>
+              <Link to="/NotFound" className="hover:text-yellow-400">
+                Contato
+              </Link>
+            </li>
+            <li>
+              <Link to="/NotFound" className="hover:text-yellow-400">
+                Blog
+              </Link>
+            </li>
           </ul>
         </div>
 
@@ -66,7 +95,7 @@ export default function Footer() {
           <h3 className="font-bold text-white">Contato</h3>
 
           <div className="mt-4 flex gap-5">
-           <a
+            <a
               href="https://github.com/devbyenzo"
               target="_blank"
               rel="noopener noreferrer"
