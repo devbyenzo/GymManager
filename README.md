@@ -147,7 +147,7 @@ O GymManager está sendo desenvolvido como um projeto Full Stack para demonstrar
 Desenvolvido por **Enzo Pietrantonio**.
 
 - GitHub: https://github.com/devbyenzo
-- LinkedIn: *(adicione seu perfil)*
+- LinkedIn: *https://www.linkedin.com/in/devbyenzo/*
 
 ---
 
