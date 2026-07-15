@@ -1,42 +1,156 @@
-# GymManager 🏋️
+# 🏋️ GymManager
 
-Sistema inteligente de gerenciamento para academias.
+<p align="center">
+  <strong>Sistema inteligente para gestão de academias.</strong>
+</p>
 
-## Sobre
+<p align="center">
+  Gerencie alunos, planos, pagamentos e indicadores em uma plataforma moderna desenvolvida com React, Spring Boot e PostgreSQL.
+</p>
 
-O GymManager é uma plataforma de gestão desenvolvida para academias que desejam centralizar alunos, pagamentos e indicadores importantes em um único ambiente.
+---
 
-## Funcionalidades
+## 🚀 Demonstração
 
-- Cadastro e gerenciamento de alunos
-- Controle financeiro e mensalidades
-- Dashboard administrativo
+> Em breve
+
+---
+
+## 📸 Preview
+
+### Landing Page
+
+> Adicione um screenshot aqui.
+
+### Dashboard
+
+> Em desenvolvimento.
+
+---
+
+## ✨ Funcionalidades
+
+### Landing
+
+- Landing Page moderna
+- Design responsivo
+- Navegação SPA
+- Página 404 personalizada
+
+### Sistema
+
+- Cadastro de alunos
+- Controle financeiro
 - Gestão de planos
+- Dashboard administrativo
+- Indicadores em tempo real
+- Login com JWT
+- API REST
 
-## Tecnologias
+---
+
+## 🛠️ Tecnologias
 
 ### Frontend
-- React
+
+- React 19
 - TypeScript
 - Tailwind CSS
+- React Router
 - Framer Motion
+- React Icons
+- Vite
 
 ### Backend
+
 - Java 21
 - Spring Boot
+- Spring Security
 - Spring Data JPA
 
 ### Banco de Dados
+
 - PostgreSQL
 
-## Arquitetura
+### Ferramentas
 
-O projeto será desenvolvido utilizando:
-- API REST
-- Arquitetura em camadas
-- Boas práticas de desenvolvimento
-- Autenticação JWT
+- Git
+- GitHub
+- Figma
+- IntelliJ IDEA
+- VS Code
 
-## Status
+---
 
-🚧 Em desenvolvimento
+## 📂 Estrutura
+
+```text
+frontend/
+backend/
+database/
+docs/
+```
+
+---
+
+## 📈 Roadmap
+
+### Frontend
+
+- [x] Landing Page
+- [x] Hero
+- [x] Features
+- [x] Dashboard Preview
+- [x] Testimonials
+- [x] Pricing
+- [x] CTA
+- [x] Footer
+- [x] Página 404
+
+### Backend
+
+- [ ] Spring Boot
+- [ ] PostgreSQL
+- [ ] Login JWT
+- [ ] CRUD de Alunos
+- [ ] CRUD Financeiro
+- [ ] Dashboard
+- [ ] API REST
+
+---
+
+## ⚙️ Como executar
+
+### Frontend
+
+```bash
+npm install
+npm run dev
+```
+
+### Backend
+
+```bash
+# Em desenvolvimento
+```
+
+---
+
+## 🎯 Objetivo
+
+O GymManager está sendo desenvolvido como um projeto Full Stack para demonstrar conhecimentos em arquitetura de software, desenvolvimento web moderno e boas práticas utilizadas no mercado.
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Enzo Pietrantonio**.
+
+- GitHub: https://github.com/devbyenzo
+- LinkedIn: *(adicione seu perfil)*
+
+---
+
+## ⭐ Status
+
+🚧 Projeto em desenvolvimento ativo.
