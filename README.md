@@ -12,19 +12,10 @@
 
 ## 🚀 Demonstração
 
-> Em breve
+> https://gymmanager-app.vercel.app/
 
 ---
 
-## 📸 Preview
-
-### Landing Page
-
-> Adicione um screenshot aqui.
-
-### Dashboard
-
-> Em desenvolvimento.
 
 ---
 
